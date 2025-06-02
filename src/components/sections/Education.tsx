@@ -9,7 +9,8 @@ const Education = () => {
       degree: "Bachelor of Engineering in Computer Science",
       institution: "RMKCET",
       period: "2023 - 2027",
-      description: "Currently pursuing a B.E. degree with focus on computer science fundamentals, software engineering, and cybersecurity. CGPA: 8.75/10.",
+      description: "Currently pursuing a B.E. degree with focus on computer science fundamentals, software engineering, and cybersecurity.
+       CGPA: 8.75/10.",
     },
     {
       degree: "Computer Science",
